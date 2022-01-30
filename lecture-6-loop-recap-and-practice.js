@@ -10,7 +10,7 @@ var num = [12, 23, 34, 56, 78];
 
 //* while loop
 
-// var i = 0;
+// var i = 0; here i goes for itaration means the repetition of a process.
 // while (i < num.length) {
 //     console.log(num[i]);
 //     i++;
